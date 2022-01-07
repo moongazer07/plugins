@@ -57,3 +57,4 @@ module.exports = class {
     document.getElementsByClassName('app-2rEoOp')[0].style.display = 'flex'
   }
 }
+@end
