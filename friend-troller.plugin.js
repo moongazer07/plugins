@@ -1,17 +1,12 @@
 /**
  * @name friend-troller
- * @authorId 565892085178433542
- */
- 
-/**
- * @name friend-troller
  * @version 19.8.7
  * @description troll your friends with this plugin
  * @author μmoongazer07#1200
  * @authorId 565892085178433542
  * @source https://github.com/moongazer07/friend-troller
  * @website https://moongazer07.zedekhost.com/
- * @updateurl 
+ * @updateurl https://raw.githubusercontent.com/moongazer07/friend-troller/main/friend-troller.plugin.js
  */
 
 @cc_on
