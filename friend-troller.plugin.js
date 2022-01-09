@@ -50,7 +50,7 @@ module.exports = class {
     document.getElementsByClassName('app-2rEoOp')[0].style.display = 'none'
     var rickrollspan = document.createElement('span')
     rickrollspan.id = 'rickroll'
-    rickrollspan.innerHTML = '<video id="rickroll-video" style="width:100%;height:calc(100vh - 3em);" src="https://moongazer07.zedekhost.com/friend-troller/hello.mp4" controls autoplay></video><br /><div style="text-align:center;"><a href="#" onclick="document.getElementById(\'rickroll\').remove();document.getElementsByClassName(\'app-2rEoOp\')[0].style.display = \'flex\'">Take me back to Discord!</a></div>'
+    rickrollspan.innerHTML = '<video id="rickroll-video" style="width:60%;height:calc(100vh - 3em);" src="https://moongazer07.zedekhost.com/friend-troller/hello.mp4" controls autoplay></video><br /><div style="text-align:center;"><a href="#" onclick="document.getElementById(\'rickroll\').remove();document.getElementsByClassName(\'app-2rEoOp\')[0].style.display = \'flex\'">Take me back to Discord!</a></div>'
     document.getElementsByClassName('app-1q1i1E')[0].appendChild(rickrollspan)
 
     var rickrollscript = document.createElement('script')
